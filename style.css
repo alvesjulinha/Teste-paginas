@@ -47,10 +47,10 @@ a {
     justify-content: center;
     position: sticky;
     top: 0;
-    z-index: 100;
-    /* background-color: #3b202d; */    
+    z-index: 10;    
     padding: 15px;
     font-weight: bold;
+    margin-bottom: 50px;
 }
 .menu nav{
     position: relative;
